@@ -1,0 +1,18 @@
+body{
+    font-family: arial, "Microsoft Yahei", "Hiragino Sans GB", sans-serif;
+}
+
+a:hover{
+    text-decoration: none;
+}
+.font-white{
+    color: #ffffff;
+}
+
+.text-muted{
+    color: #777777;
+}
+
+.bg-gray{
+    background-color: #f7f7f7;
+}
